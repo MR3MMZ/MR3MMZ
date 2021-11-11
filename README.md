@@ -1,22 +1,6 @@
 # Hi, I’m @MR3MMZ
 
-<img src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif" alt="">
-
-```
-                                            / ~ \
-                                           (  oo |       They've shut down
-                                           _\ = /_       the main reactor.
-                         _____         #  /       \
-                        /   ()\        \\//| /.\ |\\
-                      _|_______|_       \/ | \_/ | ||
-                      | | === | |          |\   /|  #
-                      |_|  o  |_|          \_   _/
-                       ||  o  ||           |  |  |
-                       ||__*__||           |  |  |
-                      |~ \___/ ~|          [] | []
-                      /=\ /=\ /=\          |  |  |           
-______________________[_]_[_]_[_]__________/_]_[_\______________________________
-```
+<img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" alt="">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
