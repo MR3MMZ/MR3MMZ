@@ -1,6 +1,7 @@
 # Hi, I’m @MR3MMZ
 
 <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" alt="">
+<img src="https://raw.githubusercontent.com/MR3MMZ/MR3MMZ/main/about.gif" alt="" >
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
