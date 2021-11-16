@@ -1,5 +1,5 @@
 <div style="display: inline_block;">
-  <span>Hi, I’m @MR3MMZ</span>
+  <span style="font-size: 31px;">Hi, I’m @MR3MMZ</span>
   <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" width="30px">
 </div>
 
