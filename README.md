@@ -4,7 +4,7 @@
 </div>
 
 <div>
-  <img src="https://raw.githubusercontent.com/MR3MMZ/MR3MMZ/main/about.gif" width="100%" >
+  <img src="https://raw.githubusercontent.com/MR3MMZ/MR3MMZ/main/about.gif" width="100%" style="margin: 12px 0px;" >
 </div>
   
 <div style="display: inline_block"><br>
