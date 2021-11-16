@@ -2,7 +2,8 @@
   <span style="font-size: 31px;">Hi, I’m @MR3MMZ</span>
   <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" width="30px">
 </div>
-
+<br>
+<br>
 <div>
   <img src="https://raw.githubusercontent.com/MR3MMZ/MR3MMZ/main/about.gif" width="100%" style="margin: 12px 0px;" >
 </div>
