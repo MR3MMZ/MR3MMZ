@@ -1,5 +1,8 @@
-# Hi, I’m @MR3MMZ
-<img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" width="30px">
+<div style="display: inline_block"><br>
+  # Hi, I’m @MR3MMZ
+  <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" width="30px">
+</div>
+
 <div>
   <img src="https://raw.githubusercontent.com/MR3MMZ/MR3MMZ/main/about.gif" width="100%" >
 </div>
