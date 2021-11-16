@@ -1,5 +1,5 @@
 <div>
-  <div>
+  <div style="display: -webkit-inline-box; margin: 4px;">
     <h3>Hi, I’m @MR3MMZ</h3> 
   </div>
   <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" width="30px">
